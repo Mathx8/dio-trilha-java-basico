@@ -1,9 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int idade = 14;
-        if(idade >= 16)
-            System.out.println("Vá para a piscina de adultos");
-        else
-            System.out.println("Vá para a piscina de de crianças");
-    }
+        int numero = 1;
+
+        for (int x=1; x<2; x++){
+            numero = numero + x;
+        }
+        System.out.println("O valor de número é: " + numero);
+}
 }
