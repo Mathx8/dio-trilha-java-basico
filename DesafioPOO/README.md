@@ -1,3 +1,3 @@
 ## UML
 
-<img scr="Iphone.png">
+![UML](UML.jpg)
